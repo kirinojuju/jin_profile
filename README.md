@@ -22,7 +22,7 @@
 
 ### Stack
 
-![Skills](https://skillicons.dev/icons?i=linux,ubuntu,docker,aws,kubernetes,postgres,java,python,cpp,git,github,vscode,blender,aseprite)
+![Skills](https://skillicons.dev/icons?i=linux,ubuntu,docker,aws,kubernetes,postgres,java,python,cpp,git,github,vscode,idea,blender,godot)
 
 <br>
 
