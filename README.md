@@ -29,6 +29,7 @@ Network Engineering student (ISNE) at Chiang Mai University, building toward inf
 <div align="center">
 
 ![Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirinojuju&show_icons=true&hide_border=true&hide_title=true&theme=default)
+<br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kirinojuju&hide_border=true)
 
 </div>
