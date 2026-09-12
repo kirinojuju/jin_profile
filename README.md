@@ -2,7 +2,7 @@
 
 # Jin
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=888888&center=true&vCenter=true&width=480&lines=Network+Engineering+Student;Cloud+Engineering+Student;Platform+Engineering;Infrastructure+Engineering+Student;Aspiring+Game+Infrastructure+Architect;Learning+by+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=888888&center=true&vCenter=true&width=480&lines=Network+Engineering+Student;Cloud+Engineering+Student;Platform+Engineering+Student;Infrastructure+Engineering+Student;Aspiring+Game+Infrastructure+Architect;Learning+by+Building)](https://git.io/typing-svg)
 
 </div>
 
