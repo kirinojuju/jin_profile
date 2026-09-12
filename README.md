@@ -22,7 +22,7 @@
 
 ### Stack
 
-[![My Skills](https://skillicons.dev/icons?i=aws,,azure,react,cpp&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,react,cpp,godot,idea,kubernetes,linux,postgres,py,terraform,ubuntu,unity,vscode&perline=6)](https://skillicons.dev)
 
 <br>
 
