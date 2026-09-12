@@ -22,7 +22,7 @@ Network Engineering student (ISNE) at Chiang Mai University, building toward inf
 
 ### Stack
 
-![Skills](https://skillicons.dev/icons?i=linux,ubuntu,docker,aws,kubernetes,postgres,python,cpp,git,github,vscode,blender)
+![Skills](https://skillicons.dev/icons?i=linux,ubuntu,docker,aws,kubernetes,postgres,java,python,cpp,git,github,vscode,blender)
 
 <br>
 
