@@ -28,11 +28,12 @@ Network Engineering student (ISNE) at Chiang Mai University, building toward inf
 
 <div align="center">
 
-![Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true&hide_title=true&theme=default)
+![Jin's GitHub stats]
+(https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true&hide_title=true&theme=default)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&hide_border=true)
 
 </div>
 
 <div align="center">
-<sub>Replace <code>your-github-username</code> in the two links above with your actual GitHub username.</sub>
+<sub>jinnerurayuyo©</sub>
 </div>
