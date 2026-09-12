@@ -12,8 +12,8 @@
 
 ### Building
 
-- **StudentOS** — personal portfolio platform, built end-to-end from requirements to MVP
-- **PROJECT PHOENIX** — resilient infrastructure platform: simulate → detect → diagnose → recover → learn
+- **StudentOS** — personal productivity platform, built end-to-end from requirements to MVP
+- **PROJECT PHOENIX** — resilient infrastructure platform: simulate → detect → diagnose → recover → learn → deploy → operate
 - **PUSENBI** — solo action RPG, doubling as a real workload for future infrastructure experiments
 
 ### Learning path
