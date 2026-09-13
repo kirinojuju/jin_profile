@@ -28,7 +28,7 @@
 
 <div align="center">
 
-![Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirinojuju&show_icons=true&hide_border=true&hide_title=true&theme=default)
+[Jin's GitHub stats]
 <br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kirinojuju&hide_border=true)
 
