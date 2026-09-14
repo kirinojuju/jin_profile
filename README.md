@@ -1,6 +1,6 @@
 <div align="center">
 
-# Shimazu Jin
+# Shimazu Jin ?
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=888888&center=true&vCenter=true&width=480&lines=Network+Engineering+Student;Cloud+Engineering+Student;Platform+Engineering+Student;Infrastructure+Engineering+Student;Aspiring+Game+Infrastructure+Architect;Learning+by+Building)](https://git.io/typing-svg)
 
@@ -12,6 +12,7 @@
 ### Building
 
 - **StudentOS** — personal productivity platform, built end-to-end from requirements to MVP
+- **(Social Network for CMU) project** - social media platform, built for ISNE community 
 - **PROJECT PHOENIX** — resilient infrastructure platform: simulate → detect → diagnose → recover → learn → deploy → operate
 - **PUSENBI** — solo action RPG, doubling as a real workload for future infrastructure experiments
 
@@ -21,7 +22,7 @@
 
 ### Stack
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,kubernetes,terraform,godot,unity,react,idea,vscode,cpp,java,py,postgres,linux,ubuntu&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,firebase,kubernetes,terraform,godot,unity,react,nodejs,idea,vscode,cpp,java,py,postgres,linux,ubuntu&perline=9)](https://skillicons.dev)
 
 <br>
 
