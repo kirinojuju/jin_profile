@@ -6,7 +6,7 @@
 
 </div>
 
-<h2>Pojcharapon Sangkhum</h2>
+<h3>Pojcharapon Sangkhum</h3>
   <br>
 <p>Network Engineering student (ISNE) at Chiang Mai University, building toward infrastructure and platform engineering — with an eye on eventually architecting infrastructure for games.
 
