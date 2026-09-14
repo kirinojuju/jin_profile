@@ -6,8 +6,8 @@
 
 </div>
 
-### Pojcharapon Sangkhum</b>
-<p>I am Network Engineering student (ISNE) at Chiang Mai University, building toward infrastructure and platform engineering — with an eye on eventually architecting infrastructure for games.
+### Pojcharapon Sangkhum
+<p>I am <<b>Information Systems and Network Engineering student (ISNE) @ Chiang Mai University</b>> , building toward infrastructure and platform engineering — with an eye on eventually architecting infrastructure for games.
 
 ### Building
 
